@@ -8,7 +8,7 @@ layout: default
 [Lois en la Wikipedia](https://es.wikipedia.org/wiki/Lois_(Le%C3%B3n))  
 [Álbum de Fotos](https://www.google.es/search?q=fotos+lois+pueblo&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjf-Mn_8ZDVAhWHuxQKHbiWCCkQsAQIJw&biw=1093&bih=519)   
 [Lista de noticias sobre Lois](http://loispueblo.github.io/noticias)  
-[Contactos y Empresas](http://loispueblo.github.io/contacto)  
+[Contacto](http://loispueblo.github.io/contacto)  
 [¿Quieres colaborar?](http://loispueblo.github.io/colabora)  
 
 
