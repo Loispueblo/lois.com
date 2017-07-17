@@ -1,0 +1,10 @@
+# Site settings
+title: alexmeise
+tag_text: Alexander Meise
+description: This is intended to present my cv and contact information.
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
