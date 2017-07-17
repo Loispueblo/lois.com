@@ -1,1 +1,1 @@
-Puedes contactar con los desarrolladores de la página en loispueblo@loispueblo.com
+Si quieres que se listen aquí tus datos de contacto escribe a loispueblo@loispueblo.com
