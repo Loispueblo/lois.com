@@ -6,7 +6,7 @@ layout: default
 [Articulo sobre Lois en la Wikipedia](https://en.wikipedia.org/wiki/Main_Page)  
 [Álbum de Fotos](https://www.google.es/search?q=fotos+lois+pueblo&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjf-Mn_8ZDVAhWHuxQKHbiWCCkQsAQIJw&biw=1093&bih=519)  
 [Contactos y Empresas](www.lois.com/contactos)  
-[Colabora con la web de Lois](www.lois.com/colabora)  
-[Dona a la web](www.alexandermeise.com/donation)  
+[Colabora con la web de Lois](lois.com.github.io/colabora)  
+[Dona al desarrollador de la web](https://alexmeise.github.io/donate)  
 
 Escribe a loispueblo@loispueblo.com
